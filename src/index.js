@@ -1,3 +1,1 @@
-const arr = [1, 2, 3];
-const iAmJavascriptES6 = () => console.log(...arr);
-iAmJavascriptES6()
+import App from './App'
